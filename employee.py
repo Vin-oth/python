@@ -15,6 +15,8 @@ print("1.Add Employee")
 print("2.Edit Employee")
 print("3.Delete Employee")
 
+print("<------------------------------------------------------>")
+
 choice=(input("Enter your choice : "))
 
 if choice=="1":
